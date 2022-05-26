@@ -21,3 +21,8 @@ print(len(word))
 
 x = 100
 print(str(x))
+
+
+print('there is a problem with the computer')
+
+	
