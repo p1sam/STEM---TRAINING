@@ -1,0 +1,15 @@
+1 multiplied by 2 is 2
+3 multiplied by 2 is 6
+5 multiplied by 2 is 10
+7 multiplied by 2 is 14
+9 multiplied by 2 is 18
+1 multiplied by 2 is 2
+3 multiplied by 2 is 6
+5 multiplied by 2 is 10
+7 multiplied by 2 is 14
+9 multiplied by 2 is 18
+1 multiplied by 2 is 2
+3 multiplied by 2 is 6
+5 multiplied by 2 is 10
+7 multiplied by 2 is 14
+9 multiplied by 2 is 18

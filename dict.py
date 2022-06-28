@@ -3,4 +3,4 @@ my_dict = {
     "label": "Dreamville",
     "Artist": ["J.Cole", "21savage", "Murray"]
 }
-print(my_dict["Artist"])
+print(my_dict["Artist"[0]])

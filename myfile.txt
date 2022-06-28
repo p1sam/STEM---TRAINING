@@ -1,0 +1,19 @@
+Tomorrow 
+0.02 1.06 2.010 3.014 4.018 5.00.02 1.06 2.010 3.014 4.018 5.00.02 1.06 2.010 3.014 4.018 5.00 divided by 2 is 0.0
+2 divided by 2 is 1.0
+4 divided by 2 is 2.0
+6 divided by 2 is 3.0
+8 divided by 2 is 4.0
+10 divided by 2 is 5.0
+0 divided by 2 is 0.0
+2 divided by 2 is 1.0
+4 divided by 2 is 2.0
+6 divided by 2 is 3.0
+8 divided by 2 is 4.0
+10 divided by 2 is 5.0
+0 divided by 2 is 0.0
+2 divided by 2 is 1.0
+4 divided by 2 is 2.0
+6 divided by 2 is 3.0
+8 divided by 2 is 4.0
+10 divided by 2 is 5.0
